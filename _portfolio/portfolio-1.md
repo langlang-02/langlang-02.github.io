@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "USTC Robogame Competition Robot"
+excerpt: "Four-wheeled Mecanum wheel robot with a pneumatic gripper. <br/><img src='/images/robogame_detail.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This is a robot we built to compete in the USTC robot competition *Robogame*. It is controlled by a STM32F407 MCU, using four Mecanum wheels to move around. A compressed air bottle is used to power the pneumatic gripper and help the robot climb up stairs. Using Computer Vision methods, the robot can locate and grab cube foam blocks and transport them to assigned locations.

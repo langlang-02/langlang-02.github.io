@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 
-
-[cv](<../files/Zhenglang Weng cv 4.0.pdf>)
+Please refer to the [.pdf](<../files/Zhenglang Weng cv 4.0.pdf>) version.
 
 {% include base_path %}
 
