@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "langlang-ski.jpg"
   name             : "Zhenglang Weng"
   pronouns         : # example: "she/her"  
-  bio              : "Junior Undergraduate from the University of Science and Technology of China (USTC)"
+  bio              : "Junior Undergraduate from the School of the Gifted Young of University of Science and Technology of China (USTC)"
   location         : "Hefei, Anhui, China"
   employer         : "USTC"
   uri              : # URL
