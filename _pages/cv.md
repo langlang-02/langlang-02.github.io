@@ -11,7 +11,7 @@ Please refer to the [.pdf](<../files/Zhenglang Weng cv 4.0.pdf>) version.
 
 {% include base_path %}
 
-Education
+<!-- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
@@ -63,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
