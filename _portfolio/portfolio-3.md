@@ -1,6 +1,6 @@
 ---
 title: "Automatic Routing Gluttonous Snake"
-excerpt: "An Automatic Snake program based on BFS algorithm. <br/><img src='/images/AutoSnake.png'>"
+excerpt: "An Automatic Snake program based on BFS algorithm. <br/><img src='/images/AutoSnake.gif'>"
 collection: portfolio
 ---
 
