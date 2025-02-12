@@ -30,6 +30,8 @@ Education
 Contact
 ======
 langlang210 [at] mail.ustc.edu.cn
+langlangw0202 [at] gmail.com
+langlang210 [at] outlook.com
 
 *Gaoxin Campus of University of Science and Technology of China
 
