@@ -29,11 +29,11 @@ Education
 
 Contact
 ======
-langlang210 [at] mail.ustc.edu.cn
-langlangw0202 [at] gmail.com
-langlang210 [at] outlook.com
+langlang210 [at] mail.ustc.edu.cn <br>
+langlangw0202 [at] gmail.com  <br>
+langlang210 [at] outlook.com  <br>
 
-Gaoxin Campus of University of Science and Technology of China
+Gaoxin Campus of University of Science and Technology of China <br>
 Hefei, Anhui 230031
 China
 
