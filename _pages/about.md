@@ -33,10 +33,9 @@ langlang210 [at] mail.ustc.edu.cn
 langlangw0202 [at] gmail.com
 langlang210 [at] outlook.com
 
-*Gaoxin Campus of University of Science and Technology of China
-
+Gaoxin Campus of University of Science and Technology of China
 Hefei, Anhui 230031
-China*
+China
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=h7btXbNMBplG9Zb7J0-Pg7-5sNgDzMSJR6xbWRj01Fg"></script>
