@@ -19,12 +19,35 @@ Education
   - **Standardized Test**: **TOEFL:111** (Reading: 30, Listening: 30, Speaking: 23, Writing: 28)
 - Aug. 2020 \~ Aug. 2022: [**The Affiliated High School of South China Normal University**](https://www.hsfz.net.cn/homepage/index.jsp)
 
+Project Experience
+======
+### A Software Defined Radio System for 5G PUSCH1
+Advisor: Prof. Wuyang Zhou, Prof. Puhua Zhang
+Course Project for Principles of Communications, Dec. 2024
+-  Accomplished modules using MATLAB, including QAM, Scrambling/Descrambling, OFDM, CRC, Channel Estimation.
+- Constructed a simulated channel using MATLAB and a real channel using an RF antenna.
+- Validated the code operation through various channels, focusing on Error Correction, Channel Estimation, and Equalization.
+
+### Simplified 8-bit CPU Based on FPGA
+Advisor: Prof. Xiaowen Liang
+Course Project for Electronic System Design, Nov. 2024
+-  Designed an 8-bit Instruction Set of basic operations, including move, jump, basic computation, condition,immediate number.
+- Implemented the self-designed Instruction Set using Verilog HDL, and verified the basic function of the CPU using peripheral interfaces on an experiment circuit board.
+
+
+### Automatic Routing Gluttonous Snake Program Based on BFS Algorithm
+Advisor: Dr. Linlin Qin
+Course Project for Computer Programming A, Nov. 2022
+- Designed and implemented a program of the classical game Gluttonous Snake.
+- Established a program that can automatically lead the snake to eat most of the apples without dying, using the basic algorithm of Breadth First Search (BFS).
+
+
 Honors and Awards
 ======
-- Nov. 2024 **Outstanding Undergraduate Scholarship**-Gold Prize (Top 3%) | USTC 
-- Nov. 2023 **Scholarship Issued by JAC&NIO Enterprise** (Top 2%, 5000 CNY) | USTC 
-- Dec. 2023 [**CUMCM**](https://en.mcm.edu.cn/) (Contemporary Undergraduate Mathematical Contest in Modeling)  (1st in Anhui Province, Second Prize National) | China
-- Nov. 2023 **Robogame Robot Championship** (Second Prize) | USTC 
+- Nov. 2024 **Outstanding Undergraduate Scholarship**-Gold Prize (Top 3%) $|$ USTC 
+- Nov. 2023 **Scholarship Issued by JAC&NIO Enterprise** (Top 2%, 5000 CNY) $|$ USTC 
+- Dec. 2023 [**CUMCM**](https://en.mcm.edu.cn/) (Contemporary Undergraduate Mathematical Contest in Modeling)  (1st in Anhui Province, Second Prize National) $|$ China
+- Nov. 2023 **Robogame Robot Championship** (Second Prize) $|$ USTC 
 
 
 Skills
