@@ -7,9 +7,39 @@ redirect_from:
   - /resume
 ---
 
-Please refer to the [.pdf](<../files/Zhenglang Weng cv 4.0.pdf>) version.
+Please refer to the [.pdf](<../files/Zhenglang Weng cv 4.0.pdf>) version for more details.
 
 {% include base_path %}
+
+Education
+======
+- Sep. 2022 \~ Present:  [**School of the Gifted Young**](https://en.scgy.ustc.edu.cn/main.htm), [**University of Science and Technology of China (USTC)**](https://en.ustc.edu.cn/)
+  - **Major**: Electronic Information Engineering
+  - **Overall GPA: 4.04/4.3  Ranking: 1/149**
+  - **Standardized Test**: **TOEFL:111** (Reading: 30, Listening: 30, Speaking: 23, Writing: 28)
+- Aug. 2020 \~ Aug. 2022: [**The Affiliated High School of South China Normal University**](https://www.hsfz.net.cn/homepage/index.jsp)
+
+Honors and Awards
+======
+- Nov. 2024 **Outstanding Undergraduate Scholarship**-Gold Prize (Top 3%) | USTC 
+- Nov. 2023 **Scholarship Issued by JAC&NIO Enterprise** (Top 2%, 5000 CNY) | USTC 
+- Dec. 2023 [**CUMCM**](https://en.mcm.edu.cn/) (Contemporary Undergraduate Mathematical Contest in Modeling)  (1st in Anhui Province, Second Prize National) | China
+- Nov. 2023 **Robogame Robot Championship** (Second Prize) | USTC 
+
+
+Skills
+======
+
+- **Programming Language**: C, C++, MATLAB, Mathematica, Python, Verilog HDL, Markdown, LaTeX
+- **Software**: Sketchpad, GeoGebra, SolidWorks
+- **Hardware**: Heat gun, Soldering station, PPG, EDFA, Optical Attenuator, Optical Fibre
+
+Leadership and Extracurricular Activities
+======
+- Class Representative for Academics
+- Member of the USTC Ballroom Dance Association
+- Volunteer of the USTC Science and Technology Opening Week (2023&2024)
+
 
 <!-- Education
 ======
