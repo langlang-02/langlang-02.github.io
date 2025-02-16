@@ -44,10 +44,10 @@ Course Project for Computer Programming A, Nov. 2022
 
 Honors and Awards
 ======
-- Nov. 2024 **Outstanding Undergraduate Scholarship**-Gold Prize (Top 3%) $|$ USTC 
-- Nov. 2023 **Scholarship Issued by JAC&NIO Enterprise** (Top 2%, 5000 CNY) $|$ USTC 
-- Dec. 2023 [**CUMCM**](https://en.mcm.edu.cn/) (Contemporary Undergraduate Mathematical Contest in Modeling)  (1st in Anhui Province, Second Prize National) $|$ China
-- Nov. 2023 **Robogame Robot Championship** (Second Prize) $|$ USTC 
+- Nov. 2024 **Outstanding Undergraduate Scholarship**-Gold Prize (Top 3%), USTC 
+- Nov. 2023 **Scholarship Issued by JAC&NIO Enterprise** (Top 2%, 5000 CNY), USTC 
+- Dec. 2023 [**CUMCM**](https://en.mcm.edu.cn/) (Contemporary Undergraduate Mathematical Contest in Modeling)  (1st in Anhui Province, Second Prize National), China
+- Nov. 2023 **Robogame Robot Championship** (Second Prize), USTC 
 
 
 Skills
