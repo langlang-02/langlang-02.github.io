@@ -13,6 +13,8 @@ Please refer to the [.pdf](<../files/Zhenglang Weng cv 4.0.pdf>) version for mor
 
 Education
 ======
+- Jul. 2025 \~ Aug. 2025: [**Student Summer Research Fellowship Program**](https://cs.uchicago.edu/academics/undergraduate/summer-research/student-summer-research-fellowship-program/), [**The University of Chicago**](https://www.uchicago.edu/)
+  - **Advisor**: [Prof. Ken Nakagaki](https://www.ken-nakagaki.com/), [AxLab](https://www.axlab.cs.uchicago.edu/)
 - Sep. 2022 \~ Present:  [**School of the Gifted Young**](https://en.scgy.ustc.edu.cn/main.htm), [**University of Science and Technology of China (USTC)**](https://en.ustc.edu.cn/)
   - **Major**: Electronic Information Engineering
   - **Overall GPA: 4.04/4.3  Ranking: 1/149**
@@ -53,9 +55,9 @@ Honors and Awards
 Skills
 ======
 
-- **Programming Language**: C, C++, MATLAB, Mathematica, Python, Verilog HDL, Markdown, LaTeX
-- **Software**: Sketchpad, GeoGebra, SolidWorks
-- **Hardware**: Heat gun, Soldering station, PPG, EDFA, Optical Attenuator, Optical Fibre
+- **Programming Language**: C, C++, MATLAB, Mathematica, Python, Verilog HDL
+- **Software**: Sketchpad, GeoGebra, SolidWorks, Fusion360, Markdown, LaTeX
+- **Hardware**: Heat gun, Soldering station, 3D Printer, PPG, EDFA, Optical Attenuator, Optical Fibre
 
 Leadership and Extracurricular Activities
 ======

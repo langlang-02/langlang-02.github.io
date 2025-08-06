@@ -1,6 +1,6 @@
 ---
 title: "USTC Robogame Competition Robot"
-excerpt: "Four-wheeled Mecanum wheel robot with a pneumatic gripper. <br/><img src='/images/robogame_detail.jpg'>"
+excerpt: "Four-wheeled Mecanum wheel robot with a pneumatic gripper. <br/><img src='/images/robogame.png'>"
 collection: portfolio
 ---
 
@@ -11,3 +11,6 @@ Designed and developed PCBs for robot control, providing interfaces for motor dr
 Conducted wiring arrangement, as well as the MCU programming for robot control.
 
 I learn about basic **MCU programming**, **circuit design** and **manual machining** using various tools.
+
+
+<br/><img src='/images/robogame_detail.jpg'>
