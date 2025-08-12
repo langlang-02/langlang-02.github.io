@@ -1,10 +1,10 @@
 ---
-title: "Automatic Routing Gluttonous Snake"
-excerpt: "An Automatic Snake program based on BFS algorithm. <br/><img src='/images/AutoSnake.gif'>"
+title: "Information Theory and the Wordle Game"
+excerpt: "A study aiming to design game-solving algorithm for the Wordle game"
 collection: portfolio
 ---
 
-
-- Implemented an advanced automatic routing system in C programming language that guides the snake to consume the maximum number of apples while avoiding collisions.
-- Utilized the Breadth-First Search (BFS) algorithm to efficiently explore possible paths, ensuring the snake's survival and maximizing apple collection.
-- Conducted extensive testing to refine the algorithm, improving the snake's decision-making process in real-time gameplay scenarios.
+- Formed rigorous mathematical formulations of the rules and game-solving algorith.
+- Designed a Wordle game solver based on information entropy.
+- Formulated a funtional explanation for the Kullback-Leibler Divergence (KL Divergence).  
+- Please refer to the  [.pdf](<../files/Information Theory and the Wordle Game.pdf>) file for more details.

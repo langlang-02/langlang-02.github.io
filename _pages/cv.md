@@ -23,7 +23,7 @@ Education
 
 Project Experience
 ======
-### Woerdle Game Solver Utilizing Information Theory
+### Woerdle Game Solver Utilizing Information Theory [.pdf](<../files/Information Theory and the Wordle Game.pdf>)
 Adviso: Prof. Chen Gong  
 Course Project for Information Theory, Jun. 2025
 - Formed rigorous mathematical formulations of the rules and game-solving algorith.
@@ -63,7 +63,7 @@ Skills
 ======
 
 - **Programming Language**: C, C++, MATLAB, Mathematica, Python, Verilog HDL
-- **Software**: Sketchpad, GeoGebra, SolidWorks, Fusion360, Markdown, LaTeX
+- **Software**: Sketchpad, GeoGebra, SolidWorks, Fusion360,  ArduinoIDE, PlatformIO, Markdown, LaTeX
 - **Hardware**: Heat gun, Soldering station, 3D Printer, PPG, EDFA, Optical Attenuator, Optical Fibre
 
 Leadership and Extracurricular Activities

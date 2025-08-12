@@ -10,7 +10,7 @@ We employed AprilTag to visually locate and navigate the robot to assigned locat
 Designed and developed PCBs for robot control, providing interfaces for motor drives and wireless communications.
 Conducted wiring arrangement, as well as the MCU programming for robot control.
 
-I learn about basic **MCU programming**, **circuit design** and **manual machining** using various tools.
+I learn about basic **MCU programming**, **PID control algorithm**, **circuit design** and **manual machining** using various tools.
 
 
 <br/><img src='/images/robogame_detail.jpg'>
