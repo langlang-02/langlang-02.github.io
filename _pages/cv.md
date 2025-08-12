@@ -24,21 +24,21 @@ Education
 Project Experience
 ======
 ### Woerdle Game Solver Utilizing Information Theory
-Adviso: Prof. Chen Gong
+Adviso: Prof. Chen Gong  
 Course Project for Information Theory, Jun. 2025
 - Formed rigorous mathematical formulations of the rules and game-solving algorith.
 - Designed a Wordle game solver based on information entropy.
 - Formulated a funtional explanation for the Kullback-Leibler Divergence (KL Divergence).  
 
 ### A Software Defined Radio System for 5G PUSCH
-Advisor: Prof. Wuyang Zhou, Prof. Puhua Zhang
+Advisor: Prof. Wuyang Zhou, Prof. Puhua Zhang  
 Course Project for Principles of Communications, Dec. 2024
 - Accomplished modules using MATLAB, including QAM, Scrambling/Descrambling, OFDM, CRC, Channel Estimation.
 - Constructed a simulated channel using MATLAB and a real channel using an RF antenna.
 - Validated the code operation through various channels, focusing on Error Correction, Channel Estimation, and Equalization.
 
 ### Simplified 8-bit CPU Based on FPGA
-Advisor: Prof. Xiaowen Liang
+Advisor: Prof. Xiaowen Liang  
 Course Project for Electronic System Design, Nov. 2024
 -  Designed an 8-bit Instruction Set of basic operations, including move, jump, basic computation, condition, immediate number.
 - Implemented the self-designed Instruction Set using Verilog HDL, and verified the basic function of the CPU using peripheral interfaces on an experiment circuit board.
