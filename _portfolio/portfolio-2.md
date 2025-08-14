@@ -1,28 +1,16 @@
 ---
-title: "Mecanum Wheel Car with Electromagnetic Gripper"
-excerpt: "Mecanum Wheel Car with Electromagnetic Gripper designed for the 19th National College Students' Smart Car Competition. <br/><img src='/images/intellicar_drive.png'>"
+title: "USTC Robogame Competition Robot"
+excerpt: "Four-wheeled Mecanum wheel robot with a pneumatic gripper. <br/><img src='/images/robogame.png'>"
 collection: portfolio
 ---
 
+This is a robot we built to compete in the USTC robot competition *Robogame*. It is controlled by a STM32F407 MCU, using four Mecanum wheels to move around. A compressed air bottle is used to power the pneumatic gripper and help the robot climb up stairs. Using Computer Vision methods, the robot can locate and grab cube foam blocks and transport them to assigned locations.
 
-- Utilized Otsu's method to identify the track, while employing both vision techniques and an IMU to guide the robot
-along the designated path. 
-- Manually collected and labeled a dataset to train a CNN for recognizing graphic cards scattered along the roadside.
-- Used an electromagnetic robotic arm to pick up and transport the cards to a designated location.
-- Designed and developed PCBs for robot control. Conducted PCB tests and wiring arrangements for the robot.
+We employed AprilTag to visually locate and navigate the robot to assigned locations.
+Designed and developed PCBs for robot control, providing interfaces for motor drives and wireless communications.
+Conducted wiring arrangement, as well as the MCU programming for robot control.
 
-These are some of the PCBs I designed and welded for the 19th National College Students' Smart Car Competition. 
+I learn about basic **MCU programming**, **PID control algorithm**, **circuit design** and **manual machining** using various tools.
 
-<br/><img src='/images/intellicar_drive.png'>
-The first is used to actuate two DC motors and transmitting feedback signal from coders into proper connectors.
 
-<br/><img src='/images/intellicar_main.png'>
-The second is the main control board used to install the MCU and connecting peripheral device through various connectors.
-
-The following video clip shows how the IMU corrects the robots' orientation.
-<br/>
-<video width="320" height="240" controls>
-    <source src="/images/intellicar-IMU.mp4" type="video/mp4">
-</video>
-
-<!-- If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->
+<br/><img src='/images/robogame_detail.jpg'>
