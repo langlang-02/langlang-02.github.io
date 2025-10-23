@@ -23,7 +23,7 @@ Education
 
 Project Experience
 ======
-### Woerdle Game Solver Utilizing Information Theory [.pdf](<../files/Information Theory and the Wordle Game.pdf>)
+### Wordle Game Solver Utilizing Information Theory [.pdf](<../files/Information Theory and the Wordle Game.pdf>)
 Adviso: Prof. Chen Gong  
 Course Project for Information Theory, Jun. 2025
 - Formed rigorous mathematical formulations of the rules and game-solving algorith.
