@@ -21,10 +21,38 @@ Education
   - **Standardized Test**: **TOEFL:111** (Reading: 30, Listening: 30, Speaking: 23, Writing: 28)
 - Aug. 2020 \~ Aug. 2022: [**The Affiliated High School of South China Normal University**](https://www.hsfz.net.cn/homepage/index.jsp)
 
+<!-- Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
+
+
+
 Project Experience
 ======
+### Embodied Origami Robots: Bridging Physical and Computational Intelligence for Adaptive Manipulation and Locomotion 
+Submitted to *Advanced Science*, Sep. 2025
+
+- Analyzed the mechanics of a multi-link structure through theoretical modeling.
+- Modeled the potential energy of a bistable origami structure and visualized its energy landscape.
+
+### TorquePods: Multi-Module Coordinated Flywheel-based Haptic Toolkit for Advanced Haptic Design  
+Advisor: Prof. Ken Nakagaki
+Submitted to *CHI conference on Human Factors in Computing Systems*, Aug. 2025
+- Elaborated a compact, custom PCB for a novel modular haptic interface system based on flywheel actuation
+- Implemented Bluetooth communication protocol for low-latency control of the module
+- Derived theoretical force-torque transformation formulas and implemented real-time measurement for technical evaluation using a 6-DOF Force/Torque sensor.
+
+### Mass.mov: Towards Movement-based Interactive Material using ‘Mass with Constraints’
+Advisor: Prof. Ken Nakagaki
+Submitted to *CHI conference on Human Factors in Computing Systems*, Aug. 2025
+- set up a closed-loop control motor system with FOC (Field Oriented Control) for the projects technical evaluation
+- fine-tuned a PID algorithm that allowed for precise control and testing of the motion-based mechanism. 
+
+
 ### Wordle Game Solver Utilizing Information Theory [.pdf](<../files/Information Theory and the Wordle Game.pdf>)
-Adviso: Prof. Chen Gong  
+Advisor: Prof. Chen Gong  
 Course Project for Information Theory, Jun. 2025
 - Formed rigorous mathematical formulations of the rules and game-solving algorith.
 - Designed a Wordle game solver based on information entropy.
