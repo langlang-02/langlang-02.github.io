@@ -28,9 +28,9 @@ Education
   {% endfor %}</ul> -->
 
 
-
-Project Experience
+Publications
 ======
+
 ### Embodied Origami Robots: Bridging Physical and Computational Intelligence for Adaptive Manipulation and Locomotion
 Advisor: Dr. Jianshu Zhou   
 Submitted to *Advanced Science*, Sep. 2025
@@ -51,6 +51,8 @@ Submitted to *CHI conference on Human Factors in Computing Systems*, Aug. 2025
 - set up a closed-loop control motor system with FOC (Field Oriented Control) for the projects technical evaluation
 - fine-tuned a PID algorithm that allowed for precise control and testing of the motion-based mechanism. 
 
+Project Experience
+======
 
 ### Wordle Game Solver Utilizing Information Theory [.pdf](<../files/Information Theory and the Wordle Game.pdf>)
 Advisor: Prof. Chen Gong  
