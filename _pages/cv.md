@@ -31,21 +31,22 @@ Education
 
 Project Experience
 ======
-### Embodied Origami Robots: Bridging Physical and Computational Intelligence for Adaptive Manipulation and Locomotion 
+### Embodied Origami Robots: Bridging Physical and Computational Intelligence for Adaptive Manipulation and Locomotion
+Advisor: Dr. Jianshu Zhou   
 Submitted to *Advanced Science*, Sep. 2025
 
 - Analyzed the mechanics of a multi-link structure through theoretical modeling.
 - Modeled the potential energy of a bistable origami structure and visualized its energy landscape.
 
 ### TorquePods: Multi-Module Coordinated Flywheel-based Haptic Toolkit for Advanced Haptic Design  
-Advisor: Prof. Ken Nakagaki
+Advisor: Prof. Ken Nakagaki  
 Submitted to *CHI conference on Human Factors in Computing Systems*, Aug. 2025
 - Elaborated a compact, custom PCB for a novel modular haptic interface system based on flywheel actuation
 - Implemented Bluetooth communication protocol for low-latency control of the module
 - Derived theoretical force-torque transformation formulas and implemented real-time measurement for technical evaluation using a 6-DOF Force/Torque sensor.
 
 ### Mass.mov: Towards Movement-based Interactive Material using ‘Mass with Constraints’
-Advisor: Prof. Ken Nakagaki
+Advisor: Prof. Ken Nakagaki  
 Submitted to *CHI conference on Human Factors in Computing Systems*, Aug. 2025
 - set up a closed-loop control motor system with FOC (Field Oriented Control) for the projects technical evaluation
 - fine-tuned a PID algorithm that allowed for precise control and testing of the motion-based mechanism. 
