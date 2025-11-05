@@ -23,7 +23,7 @@ Education
   - **Advisor**: [Prof. Ken Nakagaki](https://www.ken-nakagaki.com/), [AxLab](https://www.axlab.cs.uchicago.edu/)
 - Sep. 2022 \~ Present:  [**School of the Gifted Young**](https://en.scgy.ustc.edu.cn/main.htm), [**University of Science and Technology of China (USTC)**](https://en.ustc.edu.cn/)
   - **Major**: Electronic Information Engineering
-  - **Overall GPA: 4.04/4.3  Ranking: 1/149**
+  - **Overall GPA: 4.03/4.3  Ranking: 1/149**
   - **Standardized Test**: **TOEFL:111** (Reading: 30, Listening: 30, Speaking: 23, Writing: 28)
 - Aug. 2020 \~ Aug. 2022: [**The Affiliated High School of South China Normal University**](https://www.hsfz.net.cn/homepage/index.jsp)
 
