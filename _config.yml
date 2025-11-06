@@ -6,6 +6,13 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+
+global:
+  gpa: "4.03/4.3"
+  ranking: "1/149"
+
+
+
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Home"
