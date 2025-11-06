@@ -10,6 +10,7 @@
 global:
   gpa: "4.03/4.3"
   ranking: "1/149"
+  cv_location: "../files/Resume - Zhenglang Weng.pdf"
 
 
 

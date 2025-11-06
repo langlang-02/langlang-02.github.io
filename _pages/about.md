@@ -13,7 +13,7 @@ I am a Junior Undergraduate from the [School of the Gifted Young](https://en.scg
 I am looking for PhD position in 2026 Fall.
 
 
-You can find my CV here: [Zhenglang Weng.pdf](<../files/Resume - Zhenglang Weng.pdf>)
+You can find my CV here: [Zhenglang Weng.pdf]({{site.global.cv_location}})
 
 
 
