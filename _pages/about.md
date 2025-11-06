@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a Junior Undergraduate from the [School of the Gifted Young](https://en.scgy.ustc.edu.cn/main.htm) of [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), majoring in Electronic Information Engineering. 
+I am a Senior Undergraduate from the [School of the Gifted Young](https://en.scgy.ustc.edu.cn/main.htm) of [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), majoring in Electronic Information Engineering. 
 
 I am looking for PhD position in 2026 Fall.
 
