@@ -1,6 +1,6 @@
 ---
 title: "Vision-Based Pick-and-Place with Eye-in-Hand Configuration"
-excerpt: "A study aiming to design game-solving algorithm for the Wordle game. <br/><img src='/images/UR5_project.png'>"
+excerpt: "Visual Based Cube Recognition and Robotic Arm Manipulation.|[Demo](https://www.youtube.com/embed/4xA9K-ZysPM?autoplay=1) <br/><img src='/images/UR5_project.png'>"
 collection: portfolio
 ---
 
