@@ -1,6 +1,6 @@
 ---
 title: "Vision-Based Pick-and-Place with Eye-in-Hand Configuration"
-excerpt: "A study aiming to design game-solving algorithm for the Wordle game <iframe width="640" height="360" src="https://www.youtube.com/embed/4xA9K-ZysPM?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>"
+excerpt: "A study aiming to design game-solving algorithm for the Wordle game. <br/><img src='/images/UR5_project.png'>"
 collection: portfolio
 ---
 
