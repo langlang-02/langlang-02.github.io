@@ -1,6 +1,6 @@
 ---
 title: "Vision-Based Pick-and-Place with Eye-in-Hand Configuration"
-excerpt: "A study aiming to design game-solving algorithm for the Wordle game"
+excerpt: "A study aiming to design game-solving algorithm for the Wordle game <iframe width="640" height="360" src="https://www.youtube.com/embed/4xA9K-ZysPM?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>"
 collection: portfolio
 ---
 
@@ -8,4 +8,4 @@ collection: portfolio
 - Determined optimal grasp orientations based on visual feedback and executed block picking and placing by integrating manually annotated path points.
 - The open-source code is released at [https://github.com/langlang-02/teachur5_code/tree/final_project](https://github.com/langlang-02/teachur5_code/tree/final_project)
 
-<iframe src="https://drive.google.com/file/d/1nI2hl9DSz3UIVDjQZLLIrdcDCg9dlnXx/preview?autoplay=1" width="640" height="360" allow="autoplay"></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/4xA9K-ZysPM?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
