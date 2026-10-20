@@ -7,12 +7,14 @@ redirect_from:
   - /resume
 ---
 
-Please refer to the [.pdf](<../files\Resume - Zhenglang Weng.pdf>) version for more details.
+Please refer to the [.pdf](<../files/Resume - Zhenglang Weng.pdf>) version for more details.
 
 {% include base_path %}
 
 Education
 ======
+- Jul. 2026 \~ Present: **Research Assistant**, [**Shanghai Jiao Tong University (SJTU)**](https://en.sjtu.edu.cn/)
+  - **Advisor**: [Prof. Yao Mu](https://yaomarkmu.github.io/), [ScaleLab](https://scalelab-sjtu.github.io/)
 - Jul. 2025 \~ Aug. 2025: [**Student Summer Research Fellowship Program**](https://cs.uchicago.edu/academics/undergraduate/summer-research/student-summer-research-fellowship-program/), [**The University of Chicago**](https://www.uchicago.edu/)
   - **Advisor**: [Prof. Ken Nakagaki](https://www.ken-nakagaki.com/), [AxLab](https://www.axlab.cs.uchicago.edu/)
 - Sep. 2022 \~ Present:  [**School of the Gifted Young**](https://en.scgy.ustc.edu.cn/main.htm), [**University of Science and Technology of China (USTC)**](https://en.ustc.edu.cn/)
@@ -30,6 +32,17 @@ Education
 
 Publications
 ======
+
+### [SP-HLM: Sparse-Pose-Driven Motion Generation and Whole-Body Control for Humanoid Loco-Manipulation](https://sp-hlm.github.io/)
+
+Zhaohui Yang\*, Quanbao Lin, Chengqi Shi, **Zhenglang Weng**, Jicheng Lin, Boyu Chen, Tengjie Zhu, Guanzhu Ren, Jiahao Xu, Yang Feng, Xiaokang Yang, Yao Mu
+
+Submitted to *ICRA 2027*
+
+- Implemented TensorRT acceleration across the SP-HLM inference pipeline, achieving inference rates of 25 Hz for vision-language-action prediction and 10 Hz for whole-body motion generation.
+- Evaluated SP-HLM on two HumanoidArena tasks; the system achieved 56% success in kicking and 72% in door opening, compared with 38% and 52% for the token-space baseline.
+
+[Project Website](https://sp-hlm.github.io/)
 
 ### Embodied Origami Robots: Bridging Physical and Computational Intelligence for Adaptive Manipulation and Locomotion
 Advisor: Dr. Jianshu Zhou   

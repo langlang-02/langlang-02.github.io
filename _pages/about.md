@@ -8,9 +8,11 @@ redirect_from:
 ---
 
 
-I am a Senior Undergraduate from the [School of the Gifted Young](https://en.scgy.ustc.edu.cn/main.htm) of [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), majoring in Electronic Information Engineering. 
+I am currently working as a Research Assistant under the supervision of [Prof. Yao Mu](https://yaomarkmu.github.io/) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). I received my bachelor's degree in Electronic Information Engineering from the [School of the Gifted Young](https://en.scgy.ustc.edu.cn/main.htm) at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/).
 
-I am looking for PhD position in 2027 Fall.
+My research interests include building responsive and compliant humanoid robots that can work closely with humans in everyday life.
+
+I am seeking a PhD position starting in Fall 2027.
 
 
 You can find my CV here: [Zhenglang Weng.pdf]({{site.global.cv_location}})
@@ -19,7 +21,7 @@ You can find my CV here: [Zhenglang Weng.pdf]({{site.global.cv_location}})
 
 Education
 ======
-- Jul.2026- Present: **Research Assistant**, [**Shanghai Jiao Tong University**](https://en.sjtu.edu.cn/)
+- Jul.2026- Present: **Research Assistant**, [**Shanghai Jiao Tong University (SJTU)**](https://en.sjtu.edu.cn/)
   - **Advisor**: [Prof. Yao Mu](https://yaomarkmu.github.io/), [ScaleLab](https://scalelab-sjtu.github.io/)
 - Jul. 2025 \~ Aug. 2025: [**Student Summer Research Fellowship Program**](https://cs.uchicago.edu/academics/undergraduate/summer-research/student-summer-research-fellowship-program/), [**The University of Chicago**](https://www.uchicago.edu/)
   - **Advisor**: [Prof. Ken Nakagaki](https://www.ken-nakagaki.com/), [AxLab](https://www.axlab.cs.uchicago.edu/)
@@ -30,6 +32,17 @@ Education
 - Aug. 2020 \~ Aug. 2022: [**The Affiliated High School of South China Normal University**](https://www.hsfz.net.cn/homepage/index.jsp)
 
 
+
+Publications
+======
+
+### [SP-HLM: Sparse-Pose-Driven Motion Generation and Whole-Body Control for Humanoid Loco-Manipulation](https://sp-hlm.github.io/)
+
+Zhaohui Yang\*, Quanbao Lin, Chengqi Shi, **Zhenglang Weng**, Jicheng Lin, Boyu Chen, Tengjie Zhu, Guanzhu Ren, Jiahao Xu, Yang Feng, Xiaokang Yang, Yao Mu
+
+*Submitted to ICRA 2027*
+
+[Project Website](https://sp-hlm.github.io/)
 
 Contact
 ======
