@@ -28,7 +28,7 @@ Education
 - Sep. 2022 \~ Present:  [**School of the Gifted Young**](https://en.scgy.ustc.edu.cn/main.htm), [**University of Science and Technology of China (USTC)**](https://en.ustc.edu.cn/)
   - **Major**: Electronic Information Engineering
   - **Overall GPA: 4.03/4.3  Ranking: 1/149**
-  - **Standardized Test**: **TOEFL:111** (Reading: 30, Listening: 30, Speaking: 23, Writing: 28)
+  - **Standardized Test**: **TOEFL: 6.0** (Reading: 6.0, Listening: 6.0, Speaking: 5.5, Writing: 5.5)
 - Aug. 2020 \~ Aug. 2022: [**The Affiliated High School of South China Normal University**](https://www.hsfz.net.cn/homepage/index.jsp)
 
 
@@ -38,7 +38,7 @@ Publications
 
 ### [SP-HLM: Sparse-Pose-Driven Motion Generation and Whole-Body Control for Humanoid Loco-Manipulation](https://sp-hlm.github.io/)
 
-Zhaohui Yang\*, Quanbao Lin, Chengqi Shi, **Zhenglang Weng**, Jicheng Lin, Boyu Chen, Tengjie Zhu, Guanzhu Ren, Jiahao Xu, Yang Feng, Xiaokang Yang, Yao Mu
+Zhaohui Yang\*, Quanbao Lin\*, Chengqi Shi\*, **Zhenglang Weng**, Jicheng Lin, Boyu Chen, Tengjie Zhu, Guanzhu Ren, Jiahao Xu, Yang Feng, Xiaokang Yang, Yao Mu
 
 *Submitted to ICRA 2027*
 
