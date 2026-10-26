@@ -17,7 +17,7 @@ Education
   - **Advisor**: [Prof. Yao Mu](https://yaomarkmu.github.io/), [ScaleLab](https://scalelab-sjtu.github.io/)
 - Jul. 2025 \~ Aug. 2025: [**Student Summer Research Fellowship Program**](https://cs.uchicago.edu/academics/undergraduate/summer-research/student-summer-research-fellowship-program/), [**The University of Chicago**](https://www.uchicago.edu/)
   - **Advisor**: [Prof. Ken Nakagaki](https://www.ken-nakagaki.com/), [AxLab](https://www.axlab.cs.uchicago.edu/)
-- Sep. 2022 \~ Present:  [**School of the Gifted Young**](https://en.scgy.ustc.edu.cn/main.htm), [**University of Science and Technology of China (USTC)**](https://en.ustc.edu.cn/)
+- Sep. 2022 \~ Jun. 2026:  [**School of the Gifted Young**](https://en.scgy.ustc.edu.cn/main.htm), [**University of Science and Technology of China (USTC)**](https://en.ustc.edu.cn/)
   - **Major**: Electronic Information Engineering
   - **Overall GPA:** {{site.global.gpa}}  **Ranking:** {{site.global.ranking}}
   - **Standardized Test**: **TOEFL: 6.0** (Reading: 6.0, Listening: 6.0, Speaking: 5.5, Writing: 5.5)
@@ -44,12 +44,14 @@ Submitted to *ICRA 2027*
 
 [Project Website](https://sp-hlm.github.io/)
 
+<!--
 ### Embodied Origami Robots: Bridging Physical and Computational Intelligence for Adaptive Manipulation and Locomotion
 Advisor: Dr. Jianshu Zhou   
 Submitted to *Advanced Science*, Sep. 2025
 
 - Analyzed the mechanics of a multi-link structure through theoretical modeling.
 - Modeled the potential energy of a bistable origami structure and visualized its energy landscape.
+-->
 
 ### TorquePods: Multi-Module Coordinated Flywheel-based Haptic Toolkit for Advanced Haptic Design  
 Advisor: Prof. Ken Nakagaki  
@@ -66,6 +68,14 @@ In Preparation, Aug. 2025
 
 Project Experience
 ======
+
+### Robotic Manipulation via Video Generation and 6D Pose Tracking
+Undergraduate Graduation Thesis | Advisor: Prof. Jiahu Qin — USTC <br />
+Oct. 2025 – May 2026
+
+- Enabled zero-shot manipulation of objects through a video-to-action pipeline by extracting 6D trajectories of target objects from generated videos.
+- Integrated Kling-v3.0 video generation, Grounded-SAM instance segmentation, and RGBTrack 6D pose tracking to extract object motion trajectories from generated manipulation videos.
+- Deployed the full pipeline on a 7-DoF OpenArm robotic arm and evaluated it on various manipulation tasks.
 
 ### Wordle Game Solver Utilizing Information Theory [.pdf](<../files/Information Theory and the Wordle Game.pdf>)
 Advisor: Prof. Chen Gong  
