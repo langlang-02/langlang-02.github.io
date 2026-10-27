@@ -39,8 +39,9 @@ Zhaohui Yang\*, Quanbao Lin, Chengqi Shi, **Zhenglang Weng**, Jicheng Lin, Boyu 
 
 Submitted to *ICRA 2027*
 
-- Implemented TensorRT acceleration across the SP-HLM inference pipeline, achieving inference rates of 25 Hz for vision-language-action prediction and 10 Hz for whole-body motion generation.
-- Evaluated SP-HLM on two HumanoidArena tasks; the system achieved 56% success in kicking and 72% in door opening, compared with 38% and 52% for the token-space baseline.
+- Optimized the end-to-end humanoid loco-manipulation pipeline with TensorRT, accelerating VLA inference to **25 Hz** and whole-body motion generation to **10 Hz** for real-time execution.
+- Adapted and debugged the **HumanoidArena** benchmark for SP-HLM, migrated simulation environments, and trained task-specific policies for humanoid loco-manipulation evaluation.
+- Collaborated on **Unitree G1 real-world deployment**, including robot data collection, system integration, and physical loco-manipulation experiments.
 
 [Project Website](https://sp-hlm.github.io/)
 
