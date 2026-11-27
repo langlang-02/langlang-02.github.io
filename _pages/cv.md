@@ -54,9 +54,10 @@ Submitted to *Advanced Science*, Sep. 2025
 - Modeled the potential energy of a bistable origami structure and visualized its energy landscape.
 -->
 
-### TorquePods: Multi-Module Coordinated Flywheel-based Haptic Toolkit for Advanced Haptic Design  
+<!-- ### TorquePods: Multi-Module Coordinated Flywheel-based Haptic Toolkit for Advanced Haptic Design   -->
+### TorquePods: Expanding the Expressive Range of Momentum-Based Flywheel Haptics via High-Fidelity Temporal Control and Multi-Module Coordination
 Advisor: Prof. Ken Nakagaki  
-In Preparation, Aug. 2025
+Submitted to CHI2027
 - Elaborated a compact, custom PCB for a novel modular haptic interface system based on flywheel actuation
 - Implemented Bluetooth communication protocol for low-latency control of the module
 - Derived theoretical force-torque transformation formulas and implemented real-time measurement for technical evaluation using a 6-DOF Force/Torque sensor.

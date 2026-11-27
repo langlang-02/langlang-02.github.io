@@ -10,7 +10,15 @@ redirect_from:
 
 I am currently working as a Research Assistant under the supervision of [Prof. Yao Mu](https://yaomarkmu.github.io/) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). I received my bachelor's degree in Electronic Information Engineering from the [School of the Gifted Young](https://en.scgy.ustc.edu.cn/main.htm) at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/).
 
-My research interests include building responsive and compliant humanoid robots that can work closely with humans in everyday life.
+<!-- My research interests include building responsive and compliant humanoid robots that can work closely with humans in everyday life. -->
+
+My research interests lie in humanoid whole-body control, motion generation, and physical human-robot interaction. I am particularly interested in two directions:
+
+1. Contact-Aware Whole-Body Control: Developing humanoid robots that perceive and respond to physical interactions through tactile, force, and proprioceptive feedback, with the long-term goal of enabling a robot to naturally follow a human partner's lead in dance.
+
+2. Agentic Humanoid Loco-Manipulation: Developing agentic frameworks that enable general-purpose reasoning agents to plan and execute complex humanoid loco-manipulation tasks through sparse body-pose constraints and whole-body motion generation and control.
+
+Ultimately, I hope to build humanoid robots that can interact and collaborate with people naturally, safely, and responsively in everyday life.
 
 I am seeking a PhD position starting in Fall 2027.
 
@@ -41,7 +49,6 @@ Publications
 Zhaohui Yang\*, Quanbao Lin\*, Chengqi Shi\*, **Zhenglang Weng**, Jicheng Lin, Boyu Chen, Tengjie Zhu, Guanzhu Ren, Jiahao Xu, Yang Feng, Xiaokang Yang, Yao Mu
 
 *Submitted to ICRA 2027*
-
 [Project Website](https://sp-hlm.github.io/)
 
 Contact
