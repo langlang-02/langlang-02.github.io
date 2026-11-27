@@ -12,11 +12,11 @@ I am currently working as a Research Assistant under the supervision of [Prof. Y
 
 <!-- My research interests include building responsive and compliant humanoid robots that can work closely with humans in everyday life. -->
 
-My research interests lie in humanoid whole-body control, motion generation, and physical human-robot interaction. I am particularly interested in two directions:
+My research interests lie in **humanoid whole-body control, loco-manipulation, and physical human-robot interaction**. I am particularly interested in two directions:
 
-1. Contact-Aware Whole-Body Control: Developing humanoid robots that perceive and respond to physical interactions through tactile, force, and proprioceptive feedback, with the long-term goal of enabling a robot to naturally follow a human partner's lead in dance.
+1. **Contact-Aware Whole-Body Control**: Developing humanoid robots that perceive and respond to physical interactions through tactile, force, and proprioceptive feedback, with the long-term goal of enabling a robot to naturally follow a human partner's lead in dance.
 
-2. Agentic Humanoid Loco-Manipulation: Developing agentic frameworks that enable general-purpose reasoning agents to plan and execute complex humanoid loco-manipulation tasks through sparse body-pose constraints and whole-body motion generation and control.
+2. **Agentic Humanoid Loco-Manipulation**: Developing agentic frameworks that enable general-purpose reasoning agents to plan and execute complex humanoid loco-manipulation tasks through sparse body-pose constraints and whole-body motion generation and control.
 
 Ultimately, I hope to build humanoid robots that can interact and collaborate with people naturally, safely, and responsively in everyday life.
 
